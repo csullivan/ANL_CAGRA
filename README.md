@@ -1,4 +1,4 @@
-(Deprecated)CAGRA - Clover Array and Grand Raiden Analyzer
+(Deprecated) CAGRA - Clover Array and Grand Raiden Analyzer
 --
 A builder and analyzer for the clover array (CAGRA) and Grand Raiden spectrometer at RCNP (Osaka, Japan)
 
